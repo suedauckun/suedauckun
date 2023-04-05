@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated and detail-oriented Computer Engineer with 3 years<br>experience in software development using Java and Spring Boot,<br>JPA. Experienced with GİT, Maven. Highly experienced in<br>web service integration with rest API and SOAP.
+Java Back-end developer With a Passion for Development and Excited to Be at the Deployment Phase of My Career as a Web Developer. Proficient in Backend Technology, And always like to learn new skills and technologies.
 
 
 ## 🌐 Socials:
