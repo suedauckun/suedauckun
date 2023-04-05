@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Back-End developer with a aassion for development and excited to be at the deployment phase of my career as a web developer. Proficient in backend technology and always like to learn new skills and technologies.
+Java Back-End developer with a passion for development and excited to be at the deployment phase of my career as a web developer. Proficient in backend technology and always like to learn new skills and technologies.
 
 
 ## 🌐 Socials:
